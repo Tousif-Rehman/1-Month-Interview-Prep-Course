@@ -1,4 +1,4 @@
-# 1-Month-Java-Course
+# 1-Month-Crash-Course
 
 
 ---
