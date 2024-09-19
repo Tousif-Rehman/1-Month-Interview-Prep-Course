@@ -126,4 +126,34 @@
 
 ---
 
-These resources should give you a **strong foundation** across all the topics you're focusing on. They are well-regarded and often used by professionals to enhance their skills and prepare for interviews.
+Here’s a **concise table** version of the topics for each class, prioritizing key areas for each week:
+
+| **Week** | **Focus Areas**                              | **Topics**                                                                                             |
+|----------|----------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **1**    | **Java (Core)**                              | - Syntax, data types, control statements                                                                |
+|          |                                              | - OOP concepts (classes, objects, inheritance, polymorphism)                                            |
+|          |                                              | - Exception handling, multithreading basics                                                             |
+|          |                                              | - File I/O, Networking                                                                                  |
+|          | **Interview Prep**                           | - Coding challenges (strings, arrays, recursion)                                                        |
+|          |                                              | - Time & space complexity                                                                               |
+|          | **Portfolio Development**                    | - Basic layout, adding projects, personal branding                                                      |
+| **2**    | **Looker**                                   | - LookML basics, building reports and dashboards                                                        |
+|          |                                              | - Creating data visualizations                                                                          |
+|          | **SQL (Basic)**                              | - SQL syntax (SELECT, INSERT, UPDATE, DELETE)                                                           |
+|          |                                              | - Joins, subqueries, aggregate functions                                                                |
+|          | **Interview Prep**                           | - Coding challenges (arrays, linked lists)                                                              |
+|          | **Portfolio Development**                    | - Visual design, sections for skills, resume                                                            |
+| **3**    | **Advanced Java**                            | - JDBC, JSP, Servlets                                                                                   |
+|          |                                              | - Web development with Java frameworks                                                                  |
+|          | **SQL (Advanced)**                           | - Stored procedures, views, triggers                                                                    |
+|          |                                              | - Indexing, performance optimization                                                                    |
+|          | **Interview Prep**                           | - Data structures (trees, graphs), system design                                                        |
+|          | **Portfolio Development**                    | - Finalizing content, testing the site                                                                  |
+| **4**    | **Cloud (OIC)**                              | - OIC architecture, integrating OIC with APIs                                                           |
+|          |                                              | - Hands-on labs with OIC                                                                                |
+|          | **Figma**                                    | - Wireframes, prototypes, reusable components                                                           |
+|          |                                              | - Complete small design project                                                                         |
+|          | **Interview Prep**                           | - Mock interviews, final revision of coding and system design                                           |
+|          | **Portfolio Development**                    | - Polishing, testing, and launching the website                                                         |
+
+This table format provides a clear and concise breakdown of what to focus on each week!
